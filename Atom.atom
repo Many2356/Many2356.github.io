@@ -3,14 +3,14 @@
 	<title>Noticias</title>
 	<link href="https://many2356.github.io/"/>
 	<updated>2025-01-29</updated>
-	<id>https://many2356.github.io/ejercicio.rss</id>
+	<id>https://many2356.github.io/Atom.atom</id>
 	<entry>
 		<title>El Constitucional excluye definitivamente a Macías de las decisiones sobre la amnistía</title>
 		<link href="https://elpais.com/espana/2025-01-29/el-constitucional-excluye-definitivamente-a-macias-de-las-decisiones-sobre-la-amnistia.html"/>
 		<author>
 			<name>José María Brunet</name>
 		</author>
-		<id>https://many2356.github.io/ejercicio.rss</id>
+		<id>https://elpais.com/espana/2025-01-29/el-constitucional-excluye-definitivamente-a-macias-de-las-decisiones-sobre-la-amnistia.html</id>
 		<updated>2025-01-29</updated>
 		<summary>Ley de amnistía</summary>
 	</entry>
@@ -20,7 +20,7 @@
 		<author>
 			<name>Julio Núñez y Óscar López-Fonseca</name>
 		</author>
-		<id>https://many2356.github.io/ejercicio.rss</id>
+		<id>https://elpais.com/espana/2025-01-29/la-audiencia-provincial-tumba-el-registro-de-barrabes-que-ordeno-el-juez-del-caso-begona-no-se-puede-obtener-la-verdad-a-cualquier-precio.html</id>
 		<updated>2025-01-29</updated>
 		<summary>El tribunal determina la nulidad porque el registro se notificó al fiscal una hora después de su firma y media hora después de la práctica de la entrada</summary>
 	</entry>
@@ -30,7 +30,7 @@
 		<author>
 			<name>Nuño Domínguez</name>
 		</author>
-		<id>https://many2356.github.io/ejercicio.rss</id>
+		<id>https://elpais.com/ciencia/2025-01-29/el-patronato-del-cnio-destituye-a-maria-blasco-y-al-gerente.html</id>
 		<updated>2025-01-29</updated>
 		<summary>Centro Nacional de Investigaciones Oncológicas</summary>
 	</entry>
